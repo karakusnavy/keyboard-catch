@@ -1,0 +1,10 @@
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\bin\Debug\GetMyDearly.exe.config
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\bin\Debug\GetMyDearly.exe
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\bin\Debug\GetMyDearly.pdb
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.csprojAssemblyReference.cache
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.Form1.resources
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.Properties.Resources.resources
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.csproj.GenerateResource.cache
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.csproj.CoreCompileInputs.cache
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.exe
+C:\Users\Samet\source\repos\GetMyDearly\GetMyDearly\obj\Debug\GetMyDearly.pdb
